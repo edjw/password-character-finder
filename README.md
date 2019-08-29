@@ -1,4 +1,4 @@
-# Password Digit Finder
+# Password Character Finder
 
 **Log into your online banking faster**
 
@@ -22,8 +22,8 @@ Requires Python to be installed.
 
 1. `pip install click` to get [Click](https://click.palletsprojects.com) for some command line nice things like hidden input and input validation.
 
-2. `cp password-digit-finder /usr/local/bin`
+2. `cp password-character-finder /usr/local/bin`
 
-3. You might have to run `chmod a+x /usr/local/bin/password-digit-finder` if it doesn't run.
+3. You might have to run `chmod a+x /usr/local/bin/password-character-finder` if it doesn't run.
 
-4. Run `password-digit-finder` in a terminal.
+4. Run `password-character-finder` in a terminal.
