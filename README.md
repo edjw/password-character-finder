@@ -4,7 +4,9 @@ You're logging into your online banking and they ask for the 3rd, 9th, and 15th 
 
 But your password manager generated a password like `LX9s*N_43sCzb4b2U6vyYRvF` for your account so it takes you ages to work it out.
 
-This script asks you for your password and the 3 Xth characters they're asking for then returns those characters. You'll have to adapt the script if your bank asks you for anything other than 3 characters.
+This script asks you for your password and the 3 Xth characters they're asking for then returns those characters.
+
+(You'll have to adapt the script if your bank asks you for anything other than 3 characters.)
 
 All input is hidden so isn't visible to anyone looking at the screen.
 
