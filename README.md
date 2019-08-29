@@ -20,7 +20,7 @@ You should be careful of any random script off Github that asks you to paste in 
 
 Requires Python to be installed.
 
-1. `pip install click` to get [Click](https://click.palletsprojects.com) for some command line nice things like hidden input and input validation.
+1. `pip install click` to get [Click](https://click.palletsprojects.com) for some command line nice things like hidden input and input validation. This isn't optional.
 
 2. `cp password-character-finder /usr/local/bin`
 
